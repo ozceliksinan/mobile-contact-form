@@ -41,7 +41,3 @@ private void VeriTabaniKontrol()
     }
 }
 ```
-
-Contact e-mail for any question: info@sinanozcelik.com
-
-For more: sinanozcelik.com
