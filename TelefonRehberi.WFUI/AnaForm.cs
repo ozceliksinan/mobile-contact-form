@@ -14,6 +14,7 @@ namespace TelefonRehberi.WFUI
     public partial class AnaForm : Form
     {
         TelefonRehberi.BLL.BusinessLogicLayer BLL;
+
         public AnaForm()
         {
             InitializeComponent();
