@@ -4,17 +4,17 @@ We will create a simple mobile contact by performing json links using C# Windows
 
 When we run the application for the first time, a login form will appear.
 
-![GitHub Logo](login.png)
+![GitHub Logo](img/login.png)
 
 When the application is entered, a json error appears. To solve this;
 
-![GitHub Logo](solve.png)
+![GitHub Logo](img/solve.png)
 
 '[' at the beginning of the line and ']' at the end of the line.
 
 By running the application again, the system is logged in and,
 
-![GitHub Logo](telefonrehberi.png)
+![GitHub Logo](img/telefonrehberi.png)
 
 the phone book form appears.
 
